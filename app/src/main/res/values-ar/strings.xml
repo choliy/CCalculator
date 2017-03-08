@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آلة حاسبة</string>
+    <string name="black">أسود</string>
+    <string name="pink">وردي</string>
+    <string name="theme">موضوع:</string>
+    <string name="warm">دافئ</string>
+    <string name="white">أبيض</string>
+    <string name="gold">ذهب</string>
+    <string name="green">أخضر</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="black">Noir</string>
+    <string name="pink">Rose</string>
+    <string name="theme">Thème:</string>
+    <string name="warm">Chaud</string>
+    <string name="white">Blanc</string>
+    <string name="gold">Or</string>
+    <string name="green">Vert</string>
+</resources>

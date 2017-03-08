@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">電卓</string>
+    <string name="black">ブラック</string>
+    <string name="pink">ピンク</string>
+    <string name="theme">テーマ:</string>
+    <string name="warm">暖かいです</string>
+    <string name="white">白</string>
+    <string name="gold">ゴールド</string>
+    <string name="green">緑</string>
+</resources>

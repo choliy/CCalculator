@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="black">Черный</string>
+    <string name="pink">Розовый</string>
+    <string name="theme">Тема:</string>
+    <string name="white">Белый</string>
+    <string name="warm">Теплый</string>
+    <string name="gold">Золотой</string>
+    <string name="green">Зеленый</string>
+</resources>

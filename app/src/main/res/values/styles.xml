@@ -1,0 +1,152 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+    </style>
+
+    <style name="HorizontalLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="VerticalLayoutStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">3</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="TextLayoutStyle" parent="HorizontalLayoutStyle">
+        <item name="android:layout_weight">2.5</item>
+        <item name="android:baselineAligned">false</item>
+    </style>
+
+    <style name="ClearLayoutStyle" parent="VerticalLayoutStyle">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="SpinnerStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_weight">0.5</item>
+    </style>
+
+    <style name="SpinnerTitleStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">@dimen/spinner_text_size</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_marginLeft">@dimen/text_view_margin</item>
+        <item name="android:layout_marginRight">@dimen/text_view_margin</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">@dimen/text_view_max_size</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <!-- white theme button -->
+    <style name="WhiteClearButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/press_tool_white</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="WhiteToolButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="WhiteNumberButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_number_white</item>
+        <item name="android:textColor">@color/text_gray</item>
+    </style>
+
+    <!-- black theme button -->
+    <style name="BlackClearButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:background">@drawable/press_tool_black</item>
+    </style>
+
+    <style name="BlackToolButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_tool_black</item>
+    </style>
+
+    <style name="BlackNumberButtonStyle" parent="WhiteNumberButtonStyle">
+        <item name="android:background">@drawable/press_number_black</item>
+        <item name="android:textColor">@color/text_gray_light</item>
+    </style>
+
+    <!-- green theme button -->
+    <style name="GreenClearButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:background">@drawable/press_tool_green</item>
+    </style>
+
+    <style name="GreenToolButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_tool_green</item>
+    </style>
+
+    <style name="GreenNumberButtonStyle" parent="WhiteNumberButtonStyle">
+        <item name="android:background">@drawable/press_number_green</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <!-- warm theme button -->
+    <style name="WarmClearButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:background">@drawable/press_tool_warm</item>
+    </style>
+
+    <style name="WarmToolButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_tool_warm</item>
+    </style>
+
+    <style name="WarmNumberButtonStyle" parent="WhiteNumberButtonStyle">
+        <item name="android:background">@drawable/press_number_warm</item>
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <!-- pink theme button -->
+    <style name="PinkClearButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:background">@drawable/press_tool_pink</item>
+    </style>
+
+    <style name="PinkToolButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_tool_pink</item>
+    </style>
+
+    <style name="PinkNumberButtonStyle" parent="WhiteNumberButtonStyle">
+        <item name="android:background">@drawable/press_number_pink</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <!-- gold theme button -->
+    <style name="GoldClearButtonStyle" parent="WhiteClearButtonStyle">
+        <item name="android:background">@drawable/press_tool_gold</item>
+    </style>
+
+    <style name="GoldToolButtonStyle" parent="WhiteToolButtonStyle">
+        <item name="android:background">@drawable/press_tool_gold</item>
+    </style>
+
+    <style name="GoldNumberButtonStyle" parent="WhiteNumberButtonStyle">
+        <item name="android:background">@drawable/press_number_gold</item>
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+</resources>

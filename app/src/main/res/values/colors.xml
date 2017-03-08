@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app colors -->
+    <color name="color_primary">#000000</color>
+    <color name="color_primary_dark">#000000</color>
+    <color name="color_accent">#03A9F4</color>
+
+    <!-- white activity -->
+    <color name="number_white">#96ffffff</color>
+    <color name="number_white_pressed">#96d5d5d5</color>
+    <color name="tools_white">#8c3198ff</color>
+    <color name="tools_white_pressed">#8c7dbeff</color>
+
+    <!-- black activity -->
+    <color name="number_black">#963d3d3d</color>
+    <color name="number_black_pressed">#967e7e7e</color>
+    <color name="tools_black">#aa000000</color>
+    <color name="tools_black_pressed">#963d3d3d</color>
+
+    <!-- green activity -->
+    <color name="number_green">#aaaae8b8</color>
+    <color name="number_green_pressed">#aa80aa89</color>
+    <color name="tools_green">#aa387245</color>
+    <color name="tools_green_pressed">#aa80aa89</color>
+
+    <!-- wood activity -->
+    <color name="number_wood">#aaffffff</color>
+    <color name="number_wood_pressed">#aad4d4d4</color>
+    <color name="tools_wood">#96391a00</color>
+    <color name="tools_wood_pressed">#96826449</color>
+
+    <!-- pink activity -->
+    <color name="number_pink">#a0efa7ea</color>
+    <color name="number_pink_pressed">#a0c388c0</color>
+    <color name="tools_pink">#a0853280</color>
+    <color name="tools_pink_pressed">#a0c388c0</color>
+
+    <!-- gold activity -->
+    <color name="number_gold">#a0ffe073</color>
+    <color name="number_gold_pressed">#a0c8b05a</color>
+    <color name="tools_gold">#a09d8736</color>
+    <color name="tools_gold_pressed">#a0c8b05a</color>
+
+    <!-- text colors -->
+    <color name="text_white">#ffffff</color>
+    <color name="text_gray_light">#c7c7c7</color>
+    <color name="text_gray">#6c6c6c</color>
+    <color name="text_black">#3c3c3c</color>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hesap makinesi</string>
+    <string name="black">Siyah</string>
+    <string name="pink">Pembe</string>
+    <string name="theme">Tema:</string>
+    <string name="warm">Sıcak</string>
+    <string name="white">Beyaz</string>
+    <string name="gold">Altın</string>
+    <string name="green">Yeşil</string>
+</resources>

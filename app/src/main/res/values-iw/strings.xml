@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מַחשְׁבוֹן</string>
+    <string name="black">שָׁחוֹר</string>
+    <string name="pink">וָרוֹד</string>
+    <string name="theme">נושא:</string>
+    <string name="warm">חַם</string>
+    <string name="white">לבן</string>
+    <string name="gold">זהב</string>
+    <string name="green">ירוק</string>
+</resources>

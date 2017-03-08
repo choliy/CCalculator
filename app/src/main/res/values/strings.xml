@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">CCalculator</string>
+
+    <!-- spinner -->
+    <string name="theme">Theme:</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="warm">Warm</string>
+    <string name="pink">Pink</string>
+    <string name="gold">Gold</string>
+
+    <!-- numbers -->
+    <string name="zero_button" translatable="false">0</string>
+    <string name="one_button" translatable="false">1</string>
+    <string name="two_button" translatable="false">2</string>
+    <string name="three_button" translatable="false">3</string>
+    <string name="four_button" translatable="false">4</string>
+    <string name="five_button" translatable="false">5</string>
+    <string name="six_button" translatable="false">6</string>
+    <string name="seven_button" translatable="false">7</string>
+    <string name="eight_button" translatable="false">8</string>
+    <string name="nine_button" translatable="false">9</string>
+
+    <!-- tools -->
+    <string name="c_button" translatable="false">C</string>
+    <string name="equals_button" translatable="false">=</string>
+    <string name="divide_button" translatable="false">÷</string>
+    <string name="multiply_button" translatable="false">×</string>
+    <string name="minus_button" translatable="false">–</string>
+    <string name="plus_button" translatable="false">+</string>
+    <string name="point_button" translatable="false">.</string>
+    <string name="clear_button" translatable="false">«</string>
+
+</resources>

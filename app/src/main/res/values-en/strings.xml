@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCalculator</string>
+    <string name="black">Black</string>
+    <string name="pink">Pink</string>
+    <string name="theme">Theme:</string>
+    <string name="warm">Warm</string>
+    <string name="white">White</string>
+    <string name="gold">Gold</string>
+    <string name="green">Green</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">계산자</string>
+    <string name="black">검은 </string>
+    <string name="pink">담홍색</string>
+    <string name="theme">테마:</string>
+    <string name="warm">따뜻한</string>
+    <string name="white">화이트</string>
+    <string name="gold">금</string>
+    <string name="green">녹색</string>
+</resources>

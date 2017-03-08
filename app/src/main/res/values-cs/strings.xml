@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="black">Černý</string>
+    <string name="pink">Růžový</string>
+    <string name="theme">Téma:</string>
+    <string name="warm">Teplý</string>
+    <string name="white">Bílý</string>
+    <string name="gold">Zlato</string>
+    <string name="green">Zelená</string>
+</resources>
